@@ -38,6 +38,7 @@ show joined classes
 create class icon 
 myworkplace
 
+hello world
 
 
 clicked class->  -->
